@@ -1,0 +1,32 @@
+﻿
+.panel>.table-responsive.duallist {
+	height:				300px;
+	overflow-y:			scroll;
+}
+
+.duallist-block .panel-primary {
+	border-color:		rgba( 66, 66, 81, 0 );
+}
+
+.duallist-arrows button.move-left {
+	margin-top:			150px;
+}
+
+.duallist-arrows button.move-right {
+	margin-top:			20px;
+}
+
+.duallist-arrows button.move-up, .duallist-arrows button.move-down {
+	margin-left:		auto;
+	margin-right:		auto;
+	margin-bottom:		20px;
+}
+
+.optionSelectedDualList {
+	color:				black;
+	background-color:	#B8B8B8;
+}
+
+.optionSelectedDualList:hover {
+	background-color:	#818181;
+}
